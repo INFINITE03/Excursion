@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+    text-align: center;
+    user-select: none;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.p-one, a{
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+video,img{
+    cursor: pointer;
+}
+
+img{
+    margin-top: 20px;
+}
+
+
+h4{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 30px;
+   color: white;
+   text-align: center;
+}
+
+#Excursion{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+
+#copy{
+    text-align: right;
+    color: gray;
+}
